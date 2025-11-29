@@ -1,0 +1,34 @@
+Львівська Хвиля|https://onair.lviv.fm:8443/lviv.fm
+ХІТ FM Україна|https://online.hitfm.ua/HitFM_Ukr
+УР 1|http://radio.ukr.radio:8000/ur1-aacplus-l
+УР2 Промінь|https://radio.garden/api/ara/content/listen/z8CJN1sE/channel.mp3
+УР 5|http://radio.ukr.radio:8000/ur5-mp3
+Галичина FM|https://stream320.galychyna.fm/WebSite
+Радіо Марія|https://radiomaria.org.ua:8443/RadioMaria
+Радіо Свобода|https://rfe-channel.streamguys1.com/rfe-channel.mp3
+Power FM|http://online.powerfm.com.ua:8000/PowerFM
+Kiss FM|http://online.kissfm.ua/KissFM_HD
+Radio ROKS|http://online.radioroks.ua/RadioROKS_HD
+Авторадіо|https://cn02.cdn.eurozet.pl:8000/pl/tuba10-1.mp3
+Lux FM|http://online.lux.fm/LuxFM
+Radio Relax|http://online.radiorelax.ua/RadioRelax
+Jam FM UA|https://stream.jamfm.de/jamfm-live/mp3-192
+Europa Plus UA|http://ep256.streamr.ru/
+NRJ UA|http://online.nrj.ua/NRJ_HD
+Наше Радіо|http://online.nasheradio.ua/NasheRadio_HD
+Русское Радио|http://online.rusradio.ua/RusRadio_HD
+Ретро FM|https://retroserver.streamr.ru:80/
+Melodia FM|http://online.radiomelodia.ua/Melodia_HD
+Авторадио Украина|https://europaplus.hostingradio.ru:8010/avtoradio320.mp3
+Jazz FM|http://jfm1.hostingradio.ru:14536/jfm1.mp3
+Classic Radio|http://ic7.101.ru:8000/v3_1
+Radio Relax|https://online.radiorelax.ua/RadioRelax
+Радио Шансон|http://radio.shanson.ua:8000/shanson128
+Максимум|https://online.radomaximum.ua/maximum
+Hit Music|https://hitmusic.hostingradio.ru/hitmusic128.mp3
+Trance Radio|https://trance.stream/stream.mp3
+DnB Station|https://dnbradio.com:8000/dnbradio.mp3
+Deep House Radio|https://deep.house/stream
+Tech House Radio|https://techhouse.stream/stream.mp3
+Lounge FM|https://stream.loungefm.com.ua/loungefm
+Chillout Radio|https://chillout.stream/stream.mp3
