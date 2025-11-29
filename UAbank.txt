@@ -28,10 +28,10 @@ Melodija FM	              https://online.melodiafm.ua/MelodiaFM
 Radio relaks             	http://online.radiorelax.ua/RadioRelax
 Radio Emanuil            	http://online.svitle.org:6728/fm
 Perec FM                  http://radio.stilnoe.fm:8080/radio-stilnoe
-Radio kazka               https://radio.ukr.radio/urkazka-mp3-m
 Fresh Ostrava	            https://icecast.beatzone.cz/radio/8000/128.mp3
 Radio Dzvonu            	https://n05.radiojar.com/amxp793bsbuvv
 Radio Maria	              https://radiomaria.org.ua:8443/stream32
 Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
 Radio Medjaugorje         https://mirm.live/mir.mp3
+
 
