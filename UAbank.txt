@@ -1,9 +1,9 @@
-Галичина FM	https://stream320.galychyna.fm/WebSite	0
-Львівська хвиля	https://onair.lviv.fm:8443/lviv.fm	0
-ХІТ FM Україна	https://online.hitfm.ua/HitFM_Ukr	0
-УР 1	http://radio.ukr.radio:8000/ur1-aacplus-l	0
-УР2 Промінь	https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3	0
-УР 5	http://radio.ukr.radio:8000/ur5-mp3	0
+Галичина FM	              Bank 1 Stacja 1   https://stream320.galychyna.fm/WebSite
+Львівська хвиля	          Bank 1 Stacja 1   https://onair.lviv.fm:8443/lviv.fm	0
+ХІТ FM Україна	          Bank 1 Stacja 1   https://online.hitfm.ua/HitFM_Ukr	0
+УР 1	                    Bank 1 Stacja 1   http://radio.ukr.radio:8000/ur1-aacplus-l	0
+УР2 Промінь	              Bank 1 Stacja 1   https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3	0
+УР 5	                    Bank 1 Stacja 1   http://radio.ukr.radio:8000/ur5-mp3	0
 Радіо Егоїсти	http://stream.mjoy.ua:8000/radio-egoisty?.mp3	0
 Радіо Культура	https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3	0
 Радіо НВ	http://91.218.212.84:8000/radionv.mp3	0
@@ -33,3 +33,4 @@ Kiss FM	http://online.kissfm.ua/KissFM	0
 Радіо Казка	https://radio.ukr.radio/urkazka-mp3-m	0
 Fresh Ostrava	https://icecast.beatzone.cz/radio/8000/128.mp3	0
 Радіо Меджугор'є	https://mirm.live/mir.mp3	0
+
