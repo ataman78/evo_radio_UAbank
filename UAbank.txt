@@ -32,25 +32,5 @@ Fresh Ostrava	            https://icecast.beatzone.cz/radio/8000/128.mp3
 Radio Dzvonu            	https://n05.radiojar.com/amxp793bsbuvv
 Radio Maria	              https://radiomaria.org.ua:8443/stream32
 Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
-Radio Medjaugorje         https://mirm.live/mir.mp3
-Power FM                  http://online.powerfm.com.ua:8000/PowerFM
-Kiss FM                   http://online.kissfm.ua/KissFM_HD
+Radio Medjugorje          https://mirm.live/mir.mp3
 Radio ROKS                http://online.radioroks.ua/RadioROKS_HD
-Avtoradio                 https://cn02.cdn.eurozet.pl:8000/pl/tuba10-1.mp3
-Jam FM UA                 https://stream.jamfm.de/jamfm-live/mp3-192
-Europa Plus UA            http://ep256.streamr.ru/
-Nashe radio               http://online.nasheradio.ua/NasheRadio_HD
-Retro FM                  https://retroserver.streamr.ru:80/
-Jazz FM                   http://jfm1.hostingradio.ru:14536/jfm1.mp3
-Classic Radio             http://ic7.101.ru:8000/v3_1
-Radio Shanson             http://radio.shanson.ua:8000/shanson128
-Maksymum                  https://online.radomaximum.ua/maximum
-Hit Music                 https://hitmusic.hostingradio.ru/hitmusic128.mp3
-Trance Radio              https://trance.stream/stream.mp3
-DnB Station               https://dnbradio.com:8000/dnbradio.mp3
-Deep House Radio          https://deep.house/stream
-Tech House Radio          https://techhouse.stream/stream.mp3
-Lounge FM                 https://stream.loungefm.com.ua/loungefm
-Chillout Radio            https://chillout.stream/stream.mp3
-
-
