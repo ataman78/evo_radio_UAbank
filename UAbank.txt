@@ -3,35 +3,34 @@ Lvivs`ka hvylia	          https://onair.lviv.fm:8443/lviv.fm
 Hit FM         	          https://online.hitfm.ua/HitFM_Ukr
 UR 1	                    http://radio.ukr.radio:8000/ur1-aacplus-l
 UR 2 Promin	              https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
-УР 5	                    http://radio.ukr.radio:8000/ur5-mp3
+UR 5	                    http://radio.ukr.radio:8000/ur5-mp3
+Radio kazka               https://radio.ukr.radio/urkazka-mp3-m
 Radio Egoisty            	http://stream.mjoy.ua:8000/radio-egoisty?.mp3
 Radio Kultura            	https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3
+Gromadske radio           http://stream.hromadskeradio.org:8000/stream-ps-hi
 Radio NV                	http://91.218.212.84:8000/radionv.mp3
 Radio Siajvo             	https://stream.ntktv.ua/syaivo.mp3
 Kalush                    http://195.182.22.130:8000/Streamogg
 Uh radio                	https://radio.garden/api/ara/content/listen/OlN9u377/channel.mp3
 Ukraiska pisnia           https://listen6.myradio24.com/50904
 Sumerechne radio        	http://listen1.myradio24.com:9000/6262
-Радіо Дзвони	https://n05.radiojar.com/amxp793bsbuvv
-Радіо Марія	https://radiomaria.org.ua:8443/stream32
-Радіо Ватикан	http://radio.vaticannews.va:80/stream-uk
-NRJ	https://cast.mediaonline.net.ua/nrj320
-Kiss FM	http://online.kissfm.ua/KissFM
-Люкс FM	http://icecast.luxnet.ua/lux
-Радіо Свобода	https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
-Радіо Релакс	https://online.radiorelax.ua/RadioRelax_Instrumental_HD
-7 Rays FM	http://7rays.stream.laut.fm/7rays
-Світле радіо	https://online.svitle.org/hls/svitle/default.m3u8
-Західний Полюс	https://online.z-polus.info/hq
-Громадське радіо	http://stream.hromadskeradio.org:8000/stream-ps-hi
-Канал Благодаті	http://noasrv.caster.fm:10001/live
-Мелодія FM	https://online.melodiafm.ua/MelodiaFM
-Радіо Релакс	http://online.radiorelax.ua/RadioRelax
-Радіо Вежа	http://62.122.207.161:8000/Vezha_320.nsv
-Радіо Еммануїл	http://online.svitle.org:6728/fm
-Перець FM	http://radio.stilnoe.fm:8080/radio-stilnoe
-Радіо Казка	https://radio.ukr.radio/urkazka-mp3-m
-Fresh Ostrava	https://icecast.beatzone.cz/radio/8000/128.mp3
-Радіо Меджугор'є	https://mirm.live/mir.mp3	0
-
-
+NRJ	                      https://cast.mediaonline.net.ua/nrj320
+Kiss FM	                  http://online.kissfm.ua/KissFM
+Luks FM	                  http://icecast.luxnet.ua/lux
+Radio Svoboda            	https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
+Radio Relaks            	https://online.radiorelax.ua/RadioRelax_Instrumental_HD
+7 Rays FM	                http://7rays.stream.laut.fm/7rays
+Svitle radio              https://online.svitle.org/hls/svitle/default.m3u8
+Zahidnyj polius          	https://online.z-polus.info/hq
+Radio vezha               http://62.122.207.161:8000/Vezha_320.nsv
+Kanal blagodati          	http://noasrv.caster.fm:10001/live
+Melodija FM	              https://online.melodiafm.ua/MelodiaFM
+Radio relaks             	http://online.radiorelax.ua/RadioRelax
+Radio Emanuil            	http://online.svitle.org:6728/fm
+Perec FM                  http://radio.stilnoe.fm:8080/radio-stilnoe
+Radio kazka               https://radio.ukr.radio/urkazka-mp3-m
+Fresh Ostrava	            https://icecast.beatzone.cz/radio/8000/128.mp3
+Radio Dzvonu            	https://n05.radiojar.com/amxp793bsbuvv
+Radio Maria	              https://radiomaria.org.ua:8443/stream32
+Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
+Radio Medjaugorje         https://mirm.live/mir.mp3
