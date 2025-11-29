@@ -4,7 +4,7 @@ Hit FM         	          https://online.hitfm.ua/HitFM_Ukr
 UR 1	                    http://radio.ukr.radio:8000/ur1-aacplus-l
 UR 2 Promin	              https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
 UR 5	                    http://radio.ukr.radio:8000/ur5-mp3
-Radio kazka               https://radio.ukr.radio/urkazka-mp3-m
+Radio kazka               https://kazky.suspilne.media/56
 Radio Egoisty            	http://stream.mjoy.ua:8000/radio-egoisty?.mp3
 Radio Kultura            	https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3
 Gromadske radio           http://stream.hromadskeradio.org:8000/stream-ps-hi
@@ -34,3 +34,4 @@ Radio Maria	              https://radiomaria.org.ua:8443/stream32
 Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
 Radio Medjugorje          https://mirm.live/mir.mp3
 Radio ROKS                http://online.radioroks.ua/RadioROKS_HD
+
