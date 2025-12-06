@@ -34,6 +34,4 @@ Radio Maria	              https://radiomaria.org.ua:8443/stream32
 Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
 Radio Medjugorje          https://mirm.live/mir.mp3
 Radio ROKS                http://online.radioroks.ua/RadioROKS_HD
-
-
-
+Cristmas radio http://2.mystreaming.net/er/christmascarols/icecast.audio
