@@ -1,4 +1,4 @@
-FM Galychyna              https://stream320.galychyna.fm/WebSite
+FM Галичина               https://stream320.galychyna.fm/WebSite
 Lvivs`ka hvylia	          https://onair.lviv.fm:8443/lviv.fm
 Hit FM         	          https://online.hitfm.ua/HitFM_Ukr
 UR 1	                    http://radio.ukr.radio:8000/ur1-aacplus-l
@@ -35,3 +35,4 @@ Radio Vatykan            	http://radio.vaticannews.va:80/stream-uk
 Radio Medjugorje          https://mirm.live/mir.mp3
 Radio ROKS                http://online.radioroks.ua/RadioROKS_HD
 Cristmas radio http://2.mystreaming.net/er/christmascarols/icecast.audio
+
