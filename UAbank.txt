@@ -13,12 +13,12 @@ Radio Siajvo             	 https://stream.ntktv.ua/syaivo.mp3
 Kalush                     http://195.182.22.130:8000/Streamogg
 Uh radio                	 https://radio.garden/api/ara/content/listen/OlN9u377/channel.mp3
 Ukraiska pisnia            https://listen6.myradio24.com/50904
-Sumerechne radio        	 http://listen1.myradio24.com:9000/6262
+Spokoinoie radio        	 http://listen1.myradio24.com:9000/6262
 NRJ	                       https://cast.mediaonline.net.ua/nrj320
 Kiss FM	                   http://online.kissfm.ua/KissFM
 Luks FM	                   http://icecast.luxnet.ua/lux
 Radio Svoboda            	 https://n04.radiojar.com/hcrb063nn3quv?rj-ttl=5&rj-tok=AAABijO2KqMAvyNNc6ijVnKFQA
-Radio Relaks            	 https://online.radiorelax.ua/RadioRelax_Instrumental_HD
+Radio Relaks instr       	 https://online.radiorelax.ua/RadioRelax_Instrumental_HD
 7 Rays FM	                 http://7rays.stream.laut.fm/7rays
 Svitle radio               https://online.svitle.org/hls/svitle/default.m3u8
 Zahidnyj polius          	 https://online.z-polus.info/hq
@@ -35,6 +35,7 @@ Radio Vatykan            	 http://radio.vaticannews.va:80/stream-uk
 Radio Medjugorje           https://mirm.live/mir.mp3
 Radio ROKS                 http://online.radioroks.ua/RadioROKS_HD
 Cristmas radio             http://2.mystreaming.net/er/christmascarols/icecast.audio
+
 
 
 
