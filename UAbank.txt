@@ -38,3 +38,10 @@ Cristmas radio             http://2.mystreaming.net/er/christmascarols/icecast.a
 Radio Piatnytsia           https://cast.mediaonline.net.ua/radiopyatnica320
 Nashe Radio                https://online.nasheradio.ua/NasheRadio
 Melodia FM                 https://online.melodiafm.ua/MelodiaFM
+Guliaj Radio               https://online.radioplayer.ua/GuliayRadio
+Hvylia Gir                 http://dale.inet.kim:8123/live
+DJ FM                      https://cast.brg.ua/djfm_main_public_mp3_hq
+Radio Bayraktar            https://online-news.radioplayer.ua/RadioNews
+Avtoradio                  https://cast.mediaonline.net.ua/avtoradio
+KEXXX FM                   https://listen6.myradio24.com/82192
+Ambient Sleeping           https://radio.stereoscenic.com/asp-s
