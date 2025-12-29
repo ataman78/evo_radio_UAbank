@@ -35,7 +35,6 @@ Radio Vatykan            	 http://radio.vaticannews.va:80/stream-uk
 Radio Medjugorje           https://mirm.live/mir.mp3
 Radio ROKS                 http://online.radioroks.ua/RadioROKS_HD
 Cristmas radio             http://2.mystreaming.net/er/christmascarols/icecast.audio
-
-
-
-
+Radio Piatnytsia           https://cast.mediaonline.net.ua/radiopyatnica320
+Nashe Radio                https://online.nasheradio.ua/NasheRadio
+Melodia FM                 https://online.melodiafm.ua/MelodiaFM
