@@ -1,4 +1,4 @@
-FM Galychyna               https://stream320.galychyna.fm/WebSite
+Галичина FM                https://stream320.galychyna.fm/WebSite
 Lvivs`ka hvylia	           https://onair.lviv.fm:8443/lviv.fm
 Hit FM         	           https://online.hitfm.ua/HitFM_Ukr
 UR 1	                     http://radio.ukr.radio:8000/ur1-aacplus-l
@@ -45,3 +45,4 @@ Radio Bayraktar            https://online-news.radioplayer.ua/RadioNews
 Avtoradio                  https://cast.mediaonline.net.ua/avtoradio
 KEXXX FM                   https://listen6.myradio24.com/82192
 Ambient Sleeping           https://radio.stereoscenic.com/asp-s
+
