@@ -1,11 +1,10 @@
-Ambient Sleeping        https://radio.stereoscenic.com/asp-s
-AX Radio                https://axradio.stream/ax
-Avtoradio → Авторадіо   https://cast.mediaonline.net.ua/avtoradio
-Cristmas radio → Різдвяне радіо  http://2.mystreaming.net/er/christmascarols/icecast.audio
-DJ FM                            https://cast.brg.ua/djfm_main_public_mp3_hq
-Europa Plus Ukraine → Європа Плюс Україна          https://online.europaplus.ua/EuropaPlus
-Fresh Ostrava
-https://icecast.beatzone.cz/radio/8000/128.mp3
+Ambient Sleeping                                  https://radio.stereoscenic.com/asp-s
+AX Radio                                          https://axradio.stream/ax
+Avtoradio → Авторадіо                             https://cast.mediaonline.net.ua/avtoradio
+Cristmas radio → Різдвяне радіо                   http://2.mystreaming.net/er/christmascarols/icecast.audio
+DJ FM                                             https://cast.brg.ua/djfm_main_public_mp3_hq
+Europa Plus Ukraine → Європа Плюс Україна         https://online.europaplus.ua/EuropaPlus
+Fresh Ostrava                                     https://icecast.beatzone.cz/radio/8000/128.mp3
 Gromadske radio → Громадське радіо
 http://stream.hromadskeradio.org:8000/stream-ps-hi
 Guliaj Radio → Гуляй Радіо
@@ -126,3 +125,4 @@ https://online.hitfm.ua/HitFM_Top
 https://online.shlager.fm/ShlagerFM
 Радіо Ми — Україна
 https://stream.radio-mi.com.ua/mi
+
