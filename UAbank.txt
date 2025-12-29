@@ -1,3 +1,4 @@
+7 Rays FM                                         http://7rays.stream.laut.fm/7rays
 Ambient Sleeping                                  https://radio.stereoscenic.com/asp-s
 AX Radio                                          https://axradio.stream/ax
 Avtoradio → Авторадіо                             https://cast.mediaonline.net.ua/avtoradio
@@ -5,8 +6,12 @@ Cristmas radio                                    http://2.mystreaming.net/er/ch
 DJ FM                                             https://cast.brg.ua/djfm_main_public_mp3_hq
 Europa Plus Ukraine                               https://online.europaplus.ua/EuropaPlus
 Fresh Ostrava                                     https://icecast.beatzone.cz/radio/8000/128.mp3
+Galychyna FM                                      https://stream320.galychyna.fm/WebSite
 Gromadske radio                                   http://stream.hromadskeradio.org:8000/stream-ps-hi
 Guliaj Radio                                      https://online.radioplayer.ua/GuliayRadio
+Hіт FM                                            https://online.hitfm.ua/HitFM_Ukr
+Hіт FM Top                                        https://online.hitfm.ua/HitFM_Top
+Hvylia Gir                                        http://dale.inet.kim:8123/live
 KEXXX FM                                          https://listen6.myradio24.com/82192
 Kalush                                            http://195.182.22.130:8000/Streamogg
 Kanal blagodati                                   http://noasrv.caster.fm:10001/live
@@ -34,6 +39,7 @@ Radio Jazz Gold                                   https://online.radiojazz.ua/Ja
 Radio Jazz Light                                  https://online.radiojazz.ua/JazzLight
 Radio Kultura                                     https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3
 Radio M                                           https://live.radiom.ua/radiom
+Radio My                                          https://stream.radio-mi.com.ua/mi
 Radio Maria                                       https://radiomaria.org.ua:8443/stream32
 Radio Medjugorje                                  https://mirm.live/mir.mp3
 Radio Nostalgie Ukraine                           https://stream.nostalgie.ua/nostalgie
@@ -48,6 +54,7 @@ Radio Svoboda                                     https://n04.radiojar.com/hcrb0
 Radio Vatykan                                     http://radio.vaticannews.va:80/stream-uk
 Radio Vezha                                       http://62.122.207.161:8000/Vezha_320.nsv
 Record FM Ukraine                                 https://online.recordfm.ua/RecordFM
+Shliager FM                                       https://online.shlager.fm/ShlagerFM
 Spokoinoie radio                                  http://listen1.myradio24.com:9000/6262
 SUN FM                                            https://online.sun.fm/SunFM
 Svitle radio                                      https://online.svitle.org/hls/svitle/default.m3u8
@@ -58,11 +65,3 @@ UR 1                                              http://radio.ukr.radio:8000/ur
 UR 2 Promin                                       https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
 UR 5                                              http://radio.ukr.radio:8000/ur5-mp3
 Zahidnyj polius                                   https://online.z-polus.info/hq
-7 Rays FM                                         http://7rays.stream.laut.fm/7rays
-Galychyna FM                                      https://stream320.galychyna.fm/WebSite
-Hvylia Gir                                        http://dale.inet.kim:8123/live
-Хіт FM                                            https://online.hitfm.ua/HitFM_Ukr
-Хіт FM Top                                        https://online.hitfm.ua/HitFM_Top
-Shliager FM                                       https://online.shlager.fm/ShlagerFM
-Radio My                                          https://stream.radio-mi.com.ua/mi
-
