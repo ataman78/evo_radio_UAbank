@@ -1,67 +1,68 @@
 Ambient Sleeping                                  https://radio.stereoscenic.com/asp-s
 AX Radio                                          https://axradio.stream/ax
 Avtoradio → Авторадіо                             https://cast.mediaonline.net.ua/avtoradio
-Cristmas radio → Різдвяне радіо                   http://2.mystreaming.net/er/christmascarols/icecast.audio
+Cristmas radio                                    http://2.mystreaming.net/er/christmascarols/icecast.audio
 DJ FM                                             https://cast.brg.ua/djfm_main_public_mp3_hq
-Europa Plus Ukraine → Європа Плюс Україна         https://online.europaplus.ua/EuropaPlus
+Europa Plus Ukraine                               https://online.europaplus.ua/EuropaPlus
 Fresh Ostrava                                     https://icecast.beatzone.cz/radio/8000/128.mp3
-Gromadske radio → Громадське радіо                http://stream.hromadskeradio.org:8000/stream-ps-hi
-Guliaj Radio → Гуляй Радіо                        https://online.radioplayer.ua/GuliayRadio
+Gromadske radio                                   http://stream.hromadskeradio.org:8000/stream-ps-hi
+Guliaj Radio                                      https://online.radioplayer.ua/GuliayRadio
 KEXXX FM                                          https://listen6.myradio24.com/82192
 Kalush                                            http://195.182.22.130:8000/Streamogg
-Kanal blagodati → Канал Благодаті                 http://noasrv.caster.fm:10001/live
+Kanal blagodati                                   http://noasrv.caster.fm:10001/live
 Kiss FM                                           http://online.kissfm.ua/KissFM
 Kiss FM Deep                                      https://online.kissfm.ua/KissFM_Deep
-Kiss FM Ukrainian → Kiss FM Український           https://online.kissfm.ua/KissFM_Ukr
-Kraina FM Rock → Країна FM Rock                   https://radio.krainafm.ua/kraina_rock
+Kiss FM Ukrainian                                 https://online.kissfm.ua/KissFM_Ukr
+Kraina FM Rock                                    https://radio.krainafm.ua/kraina_rock
 Lounge FM                                         https://cast.loungefm.com.ua/loungefm
 Lounge FM Acoustic                                https://cast.loungefm.com.ua/acoustic
 Lounge FM Chill                                   https://cast.loungefm.com.ua/chill
 Lounge FM Terrace                                 https://cast.loungefm.com.ua/terrace
-Luks FM → Люкс FM                                 http://icecast.luxnet.ua/lux
-Lvivs`ka hvylia → Львівська хвиля                 https://onair.lviv.fm:8443/lviv.fm
+Luks FM                                           http://icecast.luxnet.ua/lux
+Lvivs`ka hvylia                                   https://onair.lviv.fm:8443/lviv.fm
 Maximum FM                                        https://online.maximum.fm/MaximumFM
-Melodija FM → Мелодія FM                          https://online.melodiafm.ua/MelodiaFM
-Nashe Radio → Наше Радіо                          https://online.nasheradio.ua/NasheRadio
+Melodija FM                                       https://online.melodiafm.ua/MelodiaFM
+Nashe Radio                                       https://online.nasheradio.ua/NasheRadio
 NRJ                                               https://cast.mediaonline.net.ua/nrj320
-Perec FM → Перець FM                              http://radio.stilnoe.fm:8080/radio-stilnoe
-Radio Bayraktar → Радіо Байрактар                 https://online-news.radioplayer.ua/RadioNews
-Radio Dzvonu → Радіо Дзвони                       https://n05.radiojar.com/amxp793bsbuvv
-Radio Egoisty → Радіо Егоїсти                     http://stream.mjoy.ua:8000/radio-egoisty?.mp3
-Radio Emanuil → Радіо Еммануїл                    http://online.svitle.org:6728/fm
-Radio Jazz → Радіо Джаз                           https://online.radiojazz.ua/RadioJazz
-Radio Jazz Gold → Радіо Джаз Gold                 https://online.radiojazz.ua/JazzGold
-Radio Jazz Light → Радіо Джаз Light               https://online.radiojazz.ua/JazzLight
-Radio Kultura → Радіо Культура                    https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3
-Radio M → Радіо М                                 https://live.radiom.ua/radiom
-Radio Maria → Радіо Марія                         https://radiomaria.org.ua:8443/stream32
-Radio Medjugorje → Радіо Меджуґорʼє               https://mirm.live/mir.mp3
+Perec FM                                          http://radio.stilnoe.fm:8080/radio-stilnoe
+Radio Bayraktar                                   https://online-news.radioplayer.ua/RadioNews
+Radio Dzvony                                      https://n05.radiojar.com/amxp793bsbuvv
+Radio Egoisty                                     http://stream.mjoy.ua:8000/radio-egoisty?.mp3
+Radio Emanuil                                     http://online.svitle.org:6728/fm
+Radio Jazz                                        https://online.radiojazz.ua/RadioJazz
+Radio Jazz Gold                                   https://online.radiojazz.ua/JazzGold
+Radio Jazz Light                                  https://online.radiojazz.ua/JazzLight
+Radio Kultura                                     https://radio.garden/api/ara/content/listen/ySkYjjSB/channel.mp3
+Radio M                                           https://live.radiom.ua/radiom
+Radio Maria                                       https://radiomaria.org.ua:8443/stream32
+Radio Medjugorje                                  https://mirm.live/mir.mp3
 Radio Nostalgie Ukraine                           https://stream.nostalgie.ua/nostalgie
-Radio NV → Радіо НВ                               http://91.218.212.84:8000/radionv.mp3
-Radio Piatnytsia → Радіо П’ятниця                 https://cast.mediaonline.net.ua/radiopyatnica320
-Radio ROKS → Радіо ROKS                           http://online.radioroks.ua/RadioROKS_HD
-ROKS Ballads → ROKS Балади                        https://online.radioroks.ua/ROKS_Ballads
-ROKS Classic → ROKS Класика                       https://online.radioroks.ua/ROKS_Classic
-Radio Shanson → Радіо Шансон                      https://online.shanson.ua/Shanson
-Radio Siajvo → Радіо Сяйво                        https://stream.ntktv.ua/syaivo.mp3
-Radio Svoboda → Радіо Свобода                     https://n04.radiojar.com/hcrb063nn3quv
-Radio Vatykan → Радіо Ватикан                     http://radio.vaticannews.va:80/stream-uk
-Radio vezha → Радіо Вежа                          http://62.122.207.161:8000/Vezha_320.nsv
-Record FM Ukraine → Record FM Україна             https://online.recordfm.ua/RecordFM
-Spokoinoie radio → Спокійне радіо                 http://listen1.myradio24.com:9000/6262
+Radio NV                                          http://91.218.212.84:8000/radionv.mp3
+Radio Piatnytsia                                  https://cast.mediaonline.net.ua/radiopyatnica320
+Radio ROKS                                        http://online.radioroks.ua/RadioROKS_HD
+ROKS Ballads                                      https://online.radioroks.ua/ROKS_Ballads
+ROKS Classic                                      https://online.radioroks.ua/ROKS_Classic
+Radio Shanson                                     https://online.shanson.ua/Shanson
+Radio Siajvo                                      https://stream.ntktv.ua/syaivo.mp3
+Radio Svoboda                                     https://n04.radiojar.com/hcrb063nn3quv
+Radio Vatykan                                     http://radio.vaticannews.va:80/stream-uk
+Radio Vezha                                       http://62.122.207.161:8000/Vezha_320.nsv
+Record FM Ukraine                                 https://online.recordfm.ua/RecordFM
+Spokoinoie radio                                  http://listen1.myradio24.com:9000/6262
 SUN FM                                            https://online.sun.fm/SunFM
-Svitle radio → Світле радіо                       https://online.svitle.org/hls/svitle/default.m3u8
-Uh radio → ЮГ Радіо                               https://radio.garden/api/ara/content/listen/OlN9u377/channel.mp3
-Ukrainska pisnia → Українська пісня               https://listen6.myradio24.com/50904
-Urban Space Radio → Urban Space Radio             https://radio.urbanspace.if.ua/stream
-UR 1 → Українське радіо (UR-1)                    http://radio.ukr.radio:8000/ur1-aacplus-l
-UR 2 Promin → Радіо Промінь (UR-2)                https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
-UR 5 → Радіо Донбас Реалії (UR-5)                 http://radio.ukr.radio:8000/ur5-mp3
-Zahidnyj polius → Західний полюс                  https://online.z-polus.info/hq
-7 Rays FM → 7 Rays FM                             http://7rays.stream.laut.fm/7rays
-Галичина FM                                       https://stream320.galychyna.fm/WebSite
-Хвиля Гір                                         http://dale.inet.kim:8123/live
+Svitle radio                                      https://online.svitle.org/hls/svitle/default.m3u8
+Uh radio                                          https://radio.garden/api/ara/content/listen/OlN9u377/channel.mp3
+Ukrainska pisnia                                  https://listen6.myradio24.com/50904
+Urban Space Radio                                 https://radio.urbanspace.if.ua/stream
+UR 1                                              http://radio.ukr.radio:8000/ur1-aacplus-l
+UR 2 Promin                                       https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
+UR 5                                              http://radio.ukr.radio:8000/ur5-mp3
+Zahidnyj polius                                   https://online.z-polus.info/hq
+7 Rays FM                                         http://7rays.stream.laut.fm/7rays
+Galychyna FM                                      https://stream320.galychyna.fm/WebSite
+Hvylia Gir                                        http://dale.inet.kim:8123/live
 Хіт FM                                            https://online.hitfm.ua/HitFM_Ukr
 Хіт FM Top                                        https://online.hitfm.ua/HitFM_Top
-Шлягер FM                                         https://online.shlager.fm/ShlagerFM
-Радіо Ми — Україна                                https://stream.radio-mi.com.ua/mi
+Shliager FM                                       https://online.shlager.fm/ShlagerFM
+Radio My                                          https://stream.radio-mi.com.ua/mi
+
