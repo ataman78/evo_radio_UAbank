@@ -64,4 +64,5 @@ UR 1                                              http://radio.ukr.radio:8000/ur
 UR 2 Promin                                       https://radio.garden/api/ara/content/listen/z8XQi3LP/channel.mp3
 UR 5                                              http://radio.ukr.radio:8000/ur5-mp3
 Zahidnyj polius                                   https://online.z-polus.info/hq
-
+Radio Islandia                                    https://s3.radio.co/sa3e464c40/listen
+Radio Kazku                                       http://radio.ukr.radio:8000/urkazka-aacplus
